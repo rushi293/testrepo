@@ -4,5 +4,6 @@ int main(){
     cout << "RUHUIHIHJHJKH" << endl;\
 
 cout <<:jnnn;
+bhbhjbjhbjhbhbjhbjhbjhbjh;
     return 0;
 }
